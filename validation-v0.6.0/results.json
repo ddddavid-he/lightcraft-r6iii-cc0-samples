@@ -1,0 +1,252 @@
+{
+  "cli_version": "lightcraft-cli 0.6.0",
+  "cli_archive_sha256": "e87014d49d4dbf00851f5ff3005ecd0d5418ccd77af4f72aa750374e3f4803ce",
+  "platform": "macOS-27.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "macos_version": "27.2",
+  "gpu": "disabled via LIGHTCRAFT_GPU=0 and app.gpu enabled=false",
+  "method": "fresh in-memory import, catalog.query, CPU app.export to 1600px sRGB JPEG, catalog.query",
+  "limits": "Not an independent sensor-pixel reference comparison, full-size export test, chart calibration, or Lightroom parity measurement.",
+  "tests": [
+    {
+      "sample": 1,
+      "stem": "_95A0528",
+      "quality": "CRAW",
+      "exit_code": 0,
+      "seconds": 2.19,
+      "output_dimensions": [
+        1600,
+        1067
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    },
+    {
+      "sample": 2,
+      "stem": "_95A3076",
+      "quality": "CRAW",
+      "exit_code": 0,
+      "seconds": 0.44,
+      "output_dimensions": [
+        1600,
+        1067
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    },
+    {
+      "sample": 3,
+      "stem": "_95A1750",
+      "quality": "RAW",
+      "exit_code": 0,
+      "seconds": 0.55,
+      "output_dimensions": [
+        1067,
+        1600
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    },
+    {
+      "sample": 4,
+      "stem": "_95A1895",
+      "quality": "RAW",
+      "exit_code": 0,
+      "seconds": 0.42,
+      "output_dimensions": [
+        1600,
+        1067
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    },
+    {
+      "sample": 5,
+      "stem": "_95A0801",
+      "quality": "RAW",
+      "exit_code": 0,
+      "seconds": 0.38,
+      "output_dimensions": [
+        1600,
+        1067
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    },
+    {
+      "sample": 6,
+      "stem": "_95A3034",
+      "quality": "RAW",
+      "exit_code": 0,
+      "seconds": 0.41,
+      "output_dimensions": [
+        1600,
+        1067
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    },
+    {
+      "sample": 7,
+      "stem": "_95A3028",
+      "quality": "RAW",
+      "exit_code": 0,
+      "seconds": 0.39,
+      "output_dimensions": [
+        1600,
+        1067
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    },
+    {
+      "sample": 8,
+      "stem": "_95A4739",
+      "quality": "RAW",
+      "exit_code": 0,
+      "seconds": 0.34,
+      "output_dimensions": [
+        1600,
+        1067
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    },
+    {
+      "sample": 9,
+      "stem": "_95A4475",
+      "quality": "RAW",
+      "exit_code": 0,
+      "seconds": 0.36,
+      "output_dimensions": [
+        1600,
+        1067
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    },
+    {
+      "sample": 10,
+      "stem": "_95A4903",
+      "quality": "RAW",
+      "exit_code": 0,
+      "seconds": 0.43,
+      "output_dimensions": [
+        1600,
+        1067
+      ],
+      "previewOnly_before_after": [
+        null,
+        null
+      ],
+      "commands_ok": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "raw_original_unchanged": true,
+      "jpeg_original_unchanged": true,
+      "stderr": ""
+    }
+  ]
+}

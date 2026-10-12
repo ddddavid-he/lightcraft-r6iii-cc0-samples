@@ -1,0 +1,226 @@
+{
+  "method": "Direct TIFF SHORT array read, CTMD maker-note tag 0x4001. Positions are candidate offsets from open PRs #1029/#1071, not independent semantic or sensor-clipping verification.",
+  "reviewed_main": "76b5377868d912db69a777bda253a5b1b96b22bd",
+  "samples": [
+    {
+      "stem": "_95A0528",
+      "quality": "CRAW",
+      "iso": 100,
+      "camera_white_balance": "Cloudy",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        2072,
+        1024,
+        1024,
+        1598
+      ],
+      "candidate_color_temperature_word_109": 6016,
+      "candidate_black_words_383_386": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "word_661_not_assumed_to_be_white_level": 13995
+    },
+    {
+      "stem": "_95A3076",
+      "quality": "CRAW",
+      "iso": 100,
+      "camera_white_balance": "Auto",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        2060,
+        1024,
+        1024,
+        1869
+      ],
+      "candidate_color_temperature_word_109": 5144,
+      "candidate_black_words_383_386": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "word_661_not_assumed_to_be_white_level": 13995
+    },
+    {
+      "stem": "_95A1750",
+      "quality": "RAW",
+      "iso": 100,
+      "camera_white_balance": "Auto",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        1869,
+        1024,
+        1024,
+        1856
+      ],
+      "candidate_color_temperature_word_109": 4799,
+      "candidate_black_words_383_386": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "word_661_not_assumed_to_be_white_level": 13995
+    },
+    {
+      "stem": "_95A1895",
+      "quality": "RAW",
+      "iso": 100,
+      "camera_white_balance": "Auto",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        2013,
+        1024,
+        1024,
+        1667
+      ],
+      "candidate_color_temperature_word_109": 5600,
+      "candidate_black_words_383_386": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "word_661_not_assumed_to_be_white_level": 13995
+    },
+    {
+      "stem": "_95A0801",
+      "quality": "RAW",
+      "iso": 125,
+      "camera_white_balance": "Cloudy",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        2072,
+        1024,
+        1024,
+        1598
+      ],
+      "candidate_color_temperature_word_109": 6016,
+      "candidate_black_words_383_386": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "word_661_not_assumed_to_be_white_level": 14351
+    },
+    {
+      "stem": "_95A3034",
+      "quality": "RAW",
+      "iso": 12800,
+      "camera_white_balance": "Auto",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        1719,
+        1024,
+        1024,
+        1736
+      ],
+      "candidate_color_temperature_word_109": 4722,
+      "candidate_black_words_383_386": [
+        2048,
+        2048,
+        2048,
+        2048
+      ],
+      "word_661_not_assumed_to_be_white_level": 14351
+    },
+    {
+      "stem": "_95A3028",
+      "quality": "RAW",
+      "iso": 320,
+      "camera_white_balance": "Auto",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        1638,
+        1024,
+        1024,
+        2265
+      ],
+      "candidate_color_temperature_word_109": 3857,
+      "candidate_black_words_383_386": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "word_661_not_assumed_to_be_white_level": 14351
+    },
+    {
+      "stem": "_95A4739",
+      "quality": "RAW",
+      "iso": 250,
+      "camera_white_balance": "Auto",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        2052,
+        1024,
+        1024,
+        1689
+      ],
+      "candidate_color_temperature_word_109": 5630,
+      "candidate_black_words_383_386": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "word_661_not_assumed_to_be_white_level": 14351
+    },
+    {
+      "stem": "_95A4475",
+      "quality": "RAW",
+      "iso": 125,
+      "camera_white_balance": "Auto",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        2166,
+        1024,
+        1024,
+        1659
+      ],
+      "candidate_color_temperature_word_109": 6016,
+      "candidate_black_words_383_386": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "word_661_not_assumed_to_be_white_level": 14351
+    },
+    {
+      "stem": "_95A4903",
+      "quality": "RAW",
+      "iso": 1000,
+      "camera_white_balance": "Auto",
+      "ctmd_record_type": 8,
+      "colordata_version": 66,
+      "candidate_wb_words_105_108": [
+        1567,
+        1024,
+        1024,
+        2020
+      ],
+      "candidate_color_temperature_word_109": 4000,
+      "candidate_black_words_383_386": [
+        2048,
+        2048,
+        2048,
+        2048
+      ],
+      "word_661_not_assumed_to_be_white_level": 14351
+    }
+  ]
+}
